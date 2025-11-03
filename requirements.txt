@@ -1,7 +1,9 @@
 fastapi
 uvicorn
-openai
 python-pptx
 transformers
 torch
 requests
+huggingface-hub
+accelerate
+safetensors
